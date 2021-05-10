@@ -1,6 +1,6 @@
 # Dan's challenge for Wild code school 
 I've made this project using lumen and Vue.js. Here are the docs :
-https://lumen.laravel.com/
+https://lumen.laravel.com/  &   
 https://vuejs.org/
 
 Objectives :

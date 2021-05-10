@@ -14,7 +14,7 @@ class MainController extends Controller
     }
     public function home(){
 
-        echo 'home road';
+        echo 'Veuillez vous rendre à l\adresse : http://localhost:1234/names ';
     }
 
     //

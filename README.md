@@ -11,11 +11,11 @@ Objectives :
 ## Argonautes challenge Wild Code School
 ### Getting started :
 
-- Go to back Folder ``` cd /back```
+- Go to back Folder ``` cd back```
 - Run ```php -S localhost:1234 -t public```
 - Api can be reached at http://localhost:1234/names
-- Go to frontend Folder ``` cd /frontend``` 
-- - or ``` cd .. ``` and then ``` cd /frontend``` if you're still in the back folder
+- Go to frontend Folder ``` cd ../frontend``` 
+- - or ``` cd .. ``` and then ``` cd frontend``` if you're still in the back folder
 - Run ```npm install``` to install dependencies
 - Run ```npm run serve``` to launch the app
 
